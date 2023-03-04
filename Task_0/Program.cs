@@ -8,6 +8,6 @@ if (numLine != null)
 
     int outNum = (number*number);
    
-    
+    Console.WriteLine(outNum);
     Console.WriteLine("Это квадрат введенного Вами числа ");
 }
